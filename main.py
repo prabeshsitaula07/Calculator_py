@@ -20,8 +20,8 @@ def click(event):
         screen.update()
 
 top=Tk()
-top.minsize(400,650)
-top.maxsize(400,650)
+top.minsize(500,500)
+top.maxsize(500,500)
 top.title("calculator")
 svalue=StringVar()
 svalue.set("")
